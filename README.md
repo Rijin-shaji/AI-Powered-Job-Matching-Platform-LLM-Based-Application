@@ -8,7 +8,7 @@ This project extracts structured information from resumes and calculates total p
 
 ---
 
-## Features
+# Features
 
 Extracts:
 - Name
