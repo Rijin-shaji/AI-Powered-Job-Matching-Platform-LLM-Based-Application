@@ -1,7 +1,7 @@
 # AI-Powered-Job-Matching-Platform-LLM-Based-Application
 Developed an AI-powered job matching platform using Llama 3.3 and Hugging Face embeddings to intelligently connect job seekers with hiring teams through semantic resume–job matching.
 
-#  HR Selection Detection System
+# HR Selection Detection System
 
 An intelligent Resume Parsing and Experience Calculation system built using Python.  
 This project extracts structured information from resumes and calculates total professional experience accurately across multiple date formats.
