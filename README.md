@@ -17,7 +17,7 @@ Extracts:
 - Internship Experience
 - Total Experience (Years)
 
-# Supports Multiple Date Formats:
+## Supports Multiple Date Formats:
 - `08/2024 - Present`
 - `06/2021 - 04/2024`
 - `Aug 2021 – Present`
