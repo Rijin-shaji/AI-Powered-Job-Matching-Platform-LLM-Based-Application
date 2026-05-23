@@ -33,7 +33,7 @@ Extracts:
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 - Python 3.x
 - Regular Expressions (re)
