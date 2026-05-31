@@ -46,7 +46,7 @@ Extracts:
 
 ---
 
-## How It Works
+# How It Works
 
 1. Extract text from resume (PDF).
 2. Normalize section headers.
