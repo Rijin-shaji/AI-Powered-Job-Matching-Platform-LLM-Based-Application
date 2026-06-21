@@ -8,7 +8,7 @@ This project extracts structured information from resumes and calculates total p
 
 ---
 
-# Features
+## Features
 
 Extracts:
 - Name
@@ -17,7 +17,7 @@ Extracts:
 - Internship Experience
 - Total Experience (Years)
 
-# Supports Multiple Date Formats:
+## Supports Multiple Date Formats:
 - `08/2024 - Present`
 - `06/2021 - 04/2024`
 - `Aug 2021 – Present`
@@ -33,7 +33,7 @@ Extracts:
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 - Python 3.x
 - Regular Expressions (re)
@@ -46,7 +46,7 @@ Extracts:
 
 ---
 
-# How It Works
+## How It Works
 
 1. Extract text from resume (PDF).
 2. Normalize section headers.
