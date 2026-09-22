@@ -1,4 +1,4 @@
-# AI-Powered-Job-Matching-Platform-LLM-Based-Application
+## AI-Powered-Job-Matching-Platform-LLM-Based-Application
 Developed an AI-powered job matching platform using Llama 3.3 and Hugging Face embeddings to intelligently connect job seekers with hiring teams through semantic resume–job matching.
 
 ## HR Selection Detection System
