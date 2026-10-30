@@ -5,7 +5,6 @@ from app.services.llm_service import rank_candidates
 
 app = FastAPI()
 
-
 @app.get("/")
 def home():
     return {"message": "AI Recruitment API Running"}
